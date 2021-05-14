@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Just the Class
+title: CSE-141L
 nav_exclude: true
 seo:
   type: Course
-  name: Just the Class
+  name: 'Introduction to Computer Architecture Lab'
 ---
 
 # {{ site.tagline }}
@@ -18,6 +18,9 @@ seo:
 {{ staffer }}
 {% endfor %}
 
+The course covers the basics of modern processor design and operation. Topics include instruction set architectures, computer system performance, machine organization, pipelining, branch prediction, memory-hierarchy design, and an introduction to multiprocessor considerations (and possibly security considerations as well).
+
+This course is designed to run alongside CSE 141L. We expect that you are enrolled in both.
 
 
 {% if site.announcements %}
