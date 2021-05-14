@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSE-141L Summer Session 1 2021
-tagline: Course Website for CSE-141L
-description: Course Website for CSE-141L
+title: CSE-141L 
+tagline: 'CSE-141L: Introduction to Computer Architecture Lab'
+description:  CSE-141L Summer Session One 2021
 author: Kazem Taram
 baseurl: '/cse141L-s121' # the subpath of your site, e.g. /blog
 url: 'https://mktrm.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
