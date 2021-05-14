@@ -13,20 +13,42 @@ seo:
 {: .fs-6 .fw-300 }
 
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+
 
 The course covers the basics of modern processor design and operation. Topics include instruction set architectures, computer system performance, machine organization, pipelining, branch prediction, memory-hierarchy design, and an introduction to multiprocessor considerations (and possibly security considerations as well).
 
 This course is designed to run alongside CSE 141L. We expect that you are enrolled in both.
 
 
+
+
 {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
+
+## Instructor
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+## Teaching Assistants
+
+{% for staffer in teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+
+## Textbook
+
+Computer Organization and Design MIPS Edition, The Hardware/Software Interface, Fifth Edition (Patterson & Hennessy) (ISBN-13: 978-0124077263, ISBN-10: 0124077269)
+
 
 ## Just the Class
 
