@@ -1,23 +1,23 @@
 ---
-title: Basic Data Structures
+title: 'Week-02'
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Jul 05
+: Independence Day (observed) 
+  : 
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Jul 06
+: [Single Cycle Datapath](#)
+  : 
+  
+Jul 07
+: [Single Cycle Control Unit](#) 
+  : **Participation Quiz 2**{: .label .label-purple }
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Jul 08
+: [Pipeline-I](#)
+  : [](#)**HW 2 Due**{: .label .label-yellow }
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+
+

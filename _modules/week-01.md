@@ -1,23 +1,25 @@
 ---
-title: Introduction to Java
+title: "Week-1"
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+**Date**
+  : **Topic**
+    : **Due**
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jun 28
+: [Introduction & Motivation](#) 
+  : [--](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+Jun 29
+: [Instruction Set Architecture](#) 
+  : 
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Jun 30
+: [MIPS ISA](#)
+  :  **Participation Quiz 1**{: .label .label-purple }
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+July 01
+: [Performance](#)
+  :  
+
+

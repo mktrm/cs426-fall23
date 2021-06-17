@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSE-141L
+title: CSE-141
 nav_exclude: true
 seo:
   type: Course
@@ -14,18 +14,25 @@ seo:
 
 
 
+This course covers the basics of modern processor design and operation. Topics include instruction set architectures, computer system performance, machine organization, pipelining, branch prediction, memory-hierarchy design, and an introduction to multiprocessor considerations (and possibly security considerations as well).
 
-The course covers the basics of modern processor design and operation. Topics include instruction set architectures, computer system performance, machine organization, pipelining, branch prediction, memory-hierarchy design, and an introduction to multiprocessor considerations (and possibly security considerations as well).
-
-This course is designed to run alongside CSE 141L. We expect that you are enrolled in both.
-
+This course is designed to run alongside [CSE 141L](#). We expect that you are enrolled in both.
 
 
+<!-- <details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details> -->
 
-{% if site.announcements %}
+ 
+<!-- {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %}
+{% endif %} -->
 
 ## Instructor
 
@@ -44,52 +51,99 @@ This course is designed to run alongside CSE 141L. We expect that you are enroll
 {% endfor %}
 {% endif %}
 
+## Meetings
+Lectures are M/Tu/W/Th from 11:00 to 12:10 US/Pacific, on [Zoom](#).
+
+Updated Office Hours on Canvas (See [Course Calendar](#)).
+
 
 ## Textbook
-
 Computer Organization and Design MIPS Edition, The Hardware/Software Interface, Fifth Edition (Patterson & Hennessy) (ISBN-13: 978-0124077263, ISBN-10: 0124077269)
+The textbook is required for this course.
+
+## Other Recommended Reading
+
+- Hennessy & Patterson, "Computer Architecture: A Quantitative Approach", Morgan Kaufmann
+    - A more advanced treatment of many of the same topics in the textbook, as well as a lot more breadth.
+- Synthesis Lectures on Computer Architecture
+    - This contains a number of truly outstanding (and very recent and up-to-date) books on computer architecture, any of which you can download free while in the UCSD domain. In particular, see the books on Processor Microarchitecture (most useful for this class), Performance Evaluation Methods, Memory System, and Multithreading Architectures.
+
+## Format 
+Course format is lectures over Zoom, four days per week. Attendance is strongly recommended, but not required. All the lectures will be recorded. The slides will be available for download before each lecture (See [Agenda](#Agenda)). 
+A quick reminder: Effective learning comes from **active engagement** and **re-enforcement**. Therefore, we will have plenty of activities during lectures. Also, assignments, and grading are designed to help with this. 
+
+## Online Discussion
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [Piazza](#). You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7.
 
 
-## Just the Class
+## Grading Components
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+### Participation Mini-Quizzs (5%)
+During lectures, we will have interactive question and answer activities via Zoom polls.
+These are opportunities to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
+These in-lecture polls will not be graded for correctness or attendance.
+However, on each Wednesday, we will collect all of the poll questions of the week and release a mini-quiz on Canvas. The quiz must be completed by midnight (campus time) the following Thursday.
 
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+These quizzes are primarily for you, to help you stay on track and to check your own understanding. Therefore, **we will not grade them for correctness**. If you complete the quiz, you will earn full points for that week. However, if your raw score on a quiz is low, come to discussion sections or office hours and get help!
 
-Just the Class is built on top of [Just the Docs](https://github.com/pmarsceill/just-the-docs), making it easy to extend for your own special use cases while providing sane defaults for most everything else. This means that you also get:
+### Homework (20%)
+These are longer form assignments, designed to test your individual understanding. You are welcome discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
 
-- automatic [navigation structure](https://pmarsceill.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://pmarsceill.github.io/just-the-docs/docs/search/) and page indexing,
-- and a small but powerful set of [UI components](https://pmarsceill.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://pmarsceill.github.io/just-the-docs/docs/utilities).
+Homework submission will be via the [Gradescope](#) module in Canvas. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
-## Getting Started
+Generally, homework will be released every Thursday and due the following Thursday, at midnight. We expect to release a homework assignment every week, with exceptions for the final week, which should result in 4 homework assignments.
 
-Getting started with Just the Class is simple.
+### Midterm (30%)
+This course will have one midterm exam.
+We recognize that students may be attending class from all around the world. For this reason, we plan to offer the midterm as a ninety minute exam to be completed during a twelve hour window.
+We will offer the midterm from 8am–8pm on Tuesday, July 13th. The exam will include everything coverd by the end of the lecture on Thursday July 8th.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `index.md` with your course information.
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add your content.
+### Final (45%)
+The final exam will be cumulative over all of the course content.
 
-For a few open-source examples, see the following course websites and their source code.
+The registrar has assigned: 07/31/21, 03:00 PM - 05:59 PM as the final exam time slot for this course.
 
-- [CSE 390HA](https://courses.cs.washington.edu/courses/cse390ha/20au/) is an example of a single-page website: [source code](https://gitlab.cs.washington.edu/cse390ha/20au/website).
-- [CSE 143](https://courses.cs.washington.edu/courses/cse143/20au/) hosts an entire online textbook with full-text search: [source code](https://gitlab.cs.washington.edu/cse143/20au/website).
+Again, we recognize that students may be attending class from all around the world. For this reason, we will offer the final as a three hour exam to be completed any time in a twelve hour window.
 
-Continue reading to learn how to setup a development environment on your local computer. This allows you to make incremental changes without directly modifying the live website.
+We will offer the final from 8am–8pm on Saturday, July 30th. We will schedule an extra review session and a couple of office hours in the week before the final.
 
-### Local development environment
+Note that the final exam will be on **Saturday**.
+We recognize that Saturday can be a challenging day for some people to block off time, however, we also need to respect that folks have exams in other courses and the purpose of a harmonized exam schedule is to not conflict with those exams.
 
-Just the Class is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
+If you absolutely cannot make Saturday work, please contact Kazem directly before July 15th.
 
-1. Follow the GitHub documentation for [Setting up your GitHub Pages site locally with Jekyll](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll).
-1. Start your local Jekyll server.
-```bash
-$ bundle exec jekyll serve
-```
-1. Point your web browser to [http://localhost:4000](http://localhost:4000)
-1. Reload your web browser after making a change to preview its effect.
 
-For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
+## Academic Integrity  
+Cheating WILL be taken seriously. It is not fair to honest students to take cheating lightly, nor is it fair to the cheater to let him/her go on thinking that is a reasonable alternative in life. 
+
+"Don't test me on this one." ~Prof. Dean Tullsen
+
+
+The following is not considered cheating:
+
+- discussing the tools or logic design techniques with other groups.
+
+The following is:
+
+- Copying lab designs from someone who is not your partner, or lab report text from anyone. 
+- Viewing lab designs or lab reports from anyone who is not your partner, including those who have taken the class in previous years. 
+- Altering timing data produced by simulation, e.g. to make a non-working design appear to be working.
+
+Penalties -- anyone copying information or having information copied on a lab, or any other violation of class policy, will receive an F in the class and will not be allowed to drop.  They will be reported to their college dean.  If you can prove non-cooperative copying took place, your grade may be restored, but you must prove it to the dean -- I don't want to be involved.
+
+## Late Assignments
+You will have 2 late days during the whole summer session for late homeworks. You will also have 2 late days for Mini quizzes. You can use your late days however you wish to.
+
+## Agenda (Tentative)
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
+
+
+## DISCLAIMER
+Due to our unusual circumstances, the details in this syllabus may change (e.g. schedule, grading policy, assignments, etc.). We will update this syllabus in the event of changes as the course progresses.
+
+## Credit
+This page heavily uses materials from Pat Pannuto and Dean Tullsen. 
