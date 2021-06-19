@@ -13,12 +13,12 @@ Jul 13
 
 Jul 14
 : [Branch Predictors](#)
-  : **Quiz 3 Due**{: .label .label-purple }
+  : **Mini Quiz 3**{: .label .label-purple }
 
 
 Jul 15
 : [Midterm Review](#)
-  : [](#)**HW 4 Due**{: .label .label-yellow }
+  : [](#)**HW 2 Due**{: .label .label-yellow }
 
 
 

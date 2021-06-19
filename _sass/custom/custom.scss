@@ -7,6 +7,54 @@
 @import 'schedule';
 @import 'staffer';
 
+@import 'fontawesome/fontawesome';
+@import 'fontawesome/solid';
+.icon{
+  font-size: 18px; 
+  // color: tomato;
+  color: $green-200;
+}
+.icon-green{
+  font-size: 18px; 
+  color: $green-300;
+}
+
+details.my {
+  margin: 0;
+  summary {
+    // width: 20px;
+    padding: 0px;
+    margin: 0;
+    // position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    outline: none;
+    color: #718096;
+    opacity: 0.8;
+    overflow: hidden;
+    // display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: none;
+
+    &:hover {
+      cursor: pointer;
+      box-shadow: none;
+      outline: none;
+      opacity: 1;
+    }
+
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+}
+
+
+
+
 // Overrides
 a abbr[title] {
   border-bottom: none;

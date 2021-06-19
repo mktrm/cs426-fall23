@@ -13,7 +13,7 @@ Jul 20
 
 Jul 21
 : [Cache-I](#)
-  : **Participation Quiz 4**{: .label .label-purple }
+  : **Mini Quiz 4**{: .label .label-purple }
 
 
 Jul 22

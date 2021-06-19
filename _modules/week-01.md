@@ -4,22 +4,26 @@ title: "Week-1"
 
 **Date**
   : **Topic**
-    : **Due**
 
 Jun 28
 : [Introduction & Motivation](#) 
-  : [--](#)
+  : [<i class="icon fas fa-file-pdf"></i>](# "slides"){: .noclassatall} [<i class="icon fas fas fa-video"></i>](# "video"){: .noclassatall} [<i class="icon fas fa-chalkboard-teacher"></i>](# "annotated slides")
 
 Jun 29
-: [Instruction Set Architecture](#) 
-  : 
+: [Instruction Set Architecture](#)  
+  : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim TBD Read TBD </span></details> 
+  :  
+
 
 Jun 30
-: [MIPS ISA](#)
-  :  **Participation Quiz 1**{: .label .label-purple }
+: [MIPS ISA](#) 
+  : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim TBD Read TBD </span></details>
+  : **Mini Quiz 1**{: .label .label-purple } 
+  
+    
 
 July 01
 : [Performance](#)
-  :  
+  :  <details  title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim TBD Read TBD </span></details> 
 
 

@@ -12,7 +12,7 @@ Jul 26
 
 Jul 28
 : [Security](#)
-  : **Participation Quiz 5**{: .label .label-purple }
+  : **Mini Quiz 5**{: .label .label-purple }
 
 
 Jul 29

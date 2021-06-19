@@ -12,12 +12,12 @@ Jul 06
   
 Jul 07
 : [Single Cycle Control Unit](#) 
-  : **Participation Quiz 2**{: .label .label-purple }
+  : **Mini Quiz 2**{: .label .label-purple }
 
 
 Jul 08
 : [Pipeline-I](#)
-  : [](#)**HW 2 Due**{: .label .label-yellow }
+  : [](#)**HW 1 Due**{: .label .label-yellow }
 
 
 

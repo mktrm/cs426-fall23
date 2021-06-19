@@ -52,9 +52,9 @@ This course is designed to run alongside [CSE 141L](#). We expect that you are e
 {% endif %}
 
 ## Meetings
-Lectures are M/Tu/W/Th from 11:00 to 12:10 US/Pacific, on [Zoom](#).
+Lectures are M/Tu/W/Th from 11:00 to 12:10 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/28054/external_tools/628).
 
-Updated Office Hours on Canvas (See [Course Calendar](#)).
+Updated Office Hours on Canvas (See [Course Calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_28054)).
 
 
 ## Textbook
@@ -69,15 +69,23 @@ The textbook is required for this course.
     - This contains a number of truly outstanding (and very recent and up-to-date) books on computer architecture, any of which you can download free while in the UCSD domain. In particular, see the books on Processor Microarchitecture (most useful for this class), Performance Evaluation Methods, Memory System, and Multithreading Architectures.
 
 ## Format 
-Course format is lectures over Zoom, four days per week. Attendance is strongly recommended, but not required. All the lectures will be recorded. The slides will be available for download before each lecture (See [Agenda](#Agenda)). 
+Course format is lectures over Zoom, four days per week. Attendance is strongly recommended, but not required. All the lectures will be recorded. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
 A quick reminder: Effective learning comes from **active engagement** and **re-enforcement**. Therefore, we will have plenty of activities during lectures. Also, assignments, and grading are designed to help with this. 
 
 ## Online Discussion
 Discussions, Q&A, peer-to-peer instruction, etc. take place on our [Piazza](#). You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
 While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7.
 
+## Office Hours
+
 
 ## Grading Components
+
+An ideal assesment shoud evaluate learning outcomes, thus your grade should not depend on other student's performance in class. 
+Will use the following table for your final grade 
+
+This table can be revisited later in the class (only to normalize what 100% means).
+
 
 ### Participation Mini-Quizzs (5%)
 During lectures, we will have interactive question and answer activities via Zoom polls.
@@ -122,15 +130,17 @@ Cheating WILL be taken seriously. It is not fair to honest students to take chea
 
 The following is not considered cheating:
 
-- discussing the tools or logic design techniques with other groups.
+- discussing the homeworks with other students (with the writeup done separately, later).
+
 
 The following is:
 
-- Copying lab designs from someone who is not your partner, or lab report text from anyone. 
-- Viewing lab designs or lab reports from anyone who is not your partner, including those who have taken the class in previous years. 
-- Altering timing data produced by simulation, e.g. to make a non-working design appear to be working.
+- Discussing homework with someone who has already completed the problem, or looking at their completed write-up.
+- Using homework solutions from the web, previous versions of the class, or anywhere else.
+- Receiving, providing, or soliciting assistance from another student during a test.
 
-Penalties -- anyone copying information or having information copied on a lab, or any other violation of class policy, will receive an F in the class and will not be allowed to drop.  They will be reported to their college dean.  If you can prove non-cooperative copying took place, your grade may be restored, but you must prove it to the dean -- I don't want to be involved.
+Penalties -- anyone copying information or having information copied on a hw, or any other violation of class policy, will receive an F in the class and will not be allowed to drop.  They will be reported to their college dean.  If you can prove non-cooperative copying took place, your grade may be restored, but you must prove it to the dean -- I don't want to be involved.
+
 
 ## Late Assignments
 You will have 2 late days during the whole summer session for late homeworks. You will also have 2 late days for Mini quizzes. You can use your late days however you wish to.
