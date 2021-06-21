@@ -5,6 +5,11 @@ nav_exclude: true
 seo:
   type: Course
   name: 'Introduction to Computer Architecture Lab'
+
+toc: true
+toc_label : "On this page"
+toc_hmin: 2
+toc_hmax: 6
 ---
 
 # {{ site.tagline }}
@@ -19,20 +24,6 @@ This course covers the basics of modern processor design and operation. Topics i
 This course is designed to run alongside [CSE 141L](#). We expect that you are enrolled in both.
 
 
-<!-- <details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details> -->
-
- 
-<!-- {% if site.announcements %}
-{{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %} -->
 
 ## Instructor
 
@@ -52,7 +43,7 @@ This course is designed to run alongside [CSE 141L](#). We expect that you are e
 {% endif %}
 
 ## Meetings
-Lectures are M/Tu/W/Th from 11:00 to 12:10 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/28054/external_tools/628).
+Lectures are M/Tu/W/Th from 11:00 to 12:20 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/28054/external_tools/628).
 
 Updated Office Hours on Canvas (See [Course Calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_28054)).
 
@@ -69,12 +60,18 @@ The textbook is required for this course.
     - This contains a number of truly outstanding (and very recent and up-to-date) books on computer architecture, any of which you can download free while in the UCSD domain. In particular, see the books on Processor Microarchitecture (most useful for this class), Performance Evaluation Methods, Memory System, and Multithreading Architectures.
 
 ## Format 
-Course format is lectures over Zoom, four days per week. Attendance is strongly recommended, but not required. All the lectures will be recorded. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
-A quick reminder: Effective learning comes from **active engagement** and **re-enforcement**. Therefore, we will have plenty of activities during lectures. Also, assignments, and grading are designed to help with this. 
+Course format is lectures over Zoom, four days per week. Attendance is strongly recommended, but not required. All the lectures will be recorded and will be posted a few hours after the lectures. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
+
+{: .note }
+A quick reminder: Effective learning comes from **active engagement** and **re-enforcement**. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students, which is particularly important for our new remote world. Moroever, assignments, and grading are designed to help with re-enforcement and active engagemnet.
+
 
 ## Online Discussion
 Discussions, Q&A, peer-to-peer instruction, etc. take place on our [Piazza](#). You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
-While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7.
+
+{: .warning }
+While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. Also, we are told that Piazza uses student data for marketing. But, unfortuently, I could not find any good alternative to replicte the same discussion expericene. So, please keep the privacy issue in mind when using it.
+
 
 ## Office Hours
 
@@ -125,7 +122,7 @@ If you absolutely cannot make Saturday work, please contact Kazem directly befor
 ## Academic Integrity  
 Cheating WILL be taken seriously. It is not fair to honest students to take cheating lightly, nor is it fair to the cheater to let him/her go on thinking that is a reasonable alternative in life. 
 
-"Don't test me on this one." ~Prof. Dean Tullsen
+ > "Don't test me on this one." ~Prof. Dean Tullsen
 
 
 The following is not considered cheating:
@@ -139,7 +136,8 @@ The following is:
 - Using homework solutions from the web, previous versions of the class, or anywhere else.
 - Receiving, providing, or soliciting assistance from another student during a test.
 
-Penalties -- anyone copying information or having information copied on a hw, or any other violation of class policy, will receive an F in the class and will not be allowed to drop.  They will be reported to their college dean.  If you can prove non-cooperative copying took place, your grade may be restored, but you must prove it to the dean -- I don't want to be involved.
+{: .danger}
+Penalties -- anyone copying information or having information copied on a homework, or an exam, or any other violation of class policy, will receive an F in the class and will not be allowed to drop.  They will be reported to their college dean.  If you can prove non-cooperative copying took place, your grade may be restored, but you must prove it to the dean.
 
 
 ## Late Assignments

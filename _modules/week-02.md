@@ -1,5 +1,5 @@
 ---
-title: 'Week-02'
+title: 'Week-2'
 ---
 
 Jul 05

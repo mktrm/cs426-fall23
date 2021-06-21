@@ -22,7 +22,7 @@ url: 'https://mktrm.github.io/' # the base hostname & protocol for your site, e.
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
-remote_theme: pmarsceill/just-the-docs@v0.3.3
+remote_theme: "mktrm/just-the-docs@combination-rec-nav"
 color_scheme: light
 search_enabled: true
 heading_anchors: true
@@ -34,6 +34,7 @@ aux_links:
     - 'https://mktrm.github.io/cse141L-s121'
 footer_content:
 
+# logo: "/assets/images/favicon.ico"
 
 # Collections for website data
 collections:
@@ -75,3 +76,16 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+
+callouts:
+  warning:
+    title: 
+    color: yellow
+  note:
+    title: 
+    color: blue
+  danger:
+    title:
+    color: red
+callouts_opacity: 0.1
