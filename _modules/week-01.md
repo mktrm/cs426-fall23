@@ -11,19 +11,19 @@ Jun 28
 
 Jun 29
 : [Instruction Set Architecture](#)  
-  : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim TBD Read TBD </span></details> 
+  : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim 2.1,2.2 Read 2.3-2.5 </span></details> 
   :  
 
 
 Jun 30
 : [MIPS ISA](#) 
-  : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim TBD Read TBD </span></details>
+  : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim 2.10 Read 2.6-2.8,2.19 </span></details>
   : **Weekly Check-in**{: .label .label-purple } 
   
     
 
 July 01
 : [Performance](#)
-  :  <details  title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim TBD Read TBD </span></details> 
+  :  <details  title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 1.6,1.10 </span></details> 
 
 
