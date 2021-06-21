@@ -68,7 +68,7 @@ We try to be clear about what is okay to skim and what will be helpful to read d
 Course format is lectures over Zoom, four days per week. Attendance is strongly recommended, but not required. All the lectures will be recorded and will be posted a few hours after the lectures. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
 
 {: .note }
-A quick reminder: Effective learning comes from **active engagement** and **re-enforcement**. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students, which is particularly important for our new remote world. Moroever, assignments, and grading are designed to help with re-enforcement and active engagemnet.
+A quick reminder: **Active engagement** and **re-enforcement** are keys to successful and effective learning. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students, which is particularly important for our new remote world. Moroever, assignments, and grading are designed to help with re-enforcement and active engagemnet.
 
 
 ## Online Discussion
