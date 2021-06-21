@@ -13,7 +13,7 @@ Jul 13
 
 Jul 14
 : [Branch Predictors](#)
-  : **Mini Quiz 3**{: .label .label-purple }
+  : **Weekly Check-in**{: .label .label-purple }
 
 
 Jul 15

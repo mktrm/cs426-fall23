@@ -12,7 +12,7 @@ Jul 26
 
 Jul 28
 : [Security](#)
-  : **Mini Quiz 5**{: .label .label-purple }
+  : **Weekly Check-in**{: .label .label-purple }
 
 
 Jul 29

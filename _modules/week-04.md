@@ -5,7 +5,7 @@ title: Week-4
 
 Jul 19
 : Midterm Day -- No Class
-  : 
+  : **Midterm**{: .label .label-yellow }
 
 Jul 20 
 : [Advanced Pipeline](#)
@@ -13,7 +13,7 @@ Jul 20
 
 Jul 21
 : [Cache-I](#)
-  : **Mini Quiz 4**{: .label .label-purple }
+  : **Weekly Check-in**{: .label .label-purple }
 
 
 Jul 22

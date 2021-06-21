@@ -12,7 +12,7 @@ Jul 06
   
 Jul 07
 : [Single Cycle Control Unit](#) 
-  : **Mini Quiz 2**{: .label .label-purple }
+  : **Weekly Check-in**{: .label .label-purple }
 
 
 Jul 08

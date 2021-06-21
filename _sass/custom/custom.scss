@@ -18,7 +18,13 @@
   font-size: 18px; 
   color: $green-300;
 }
-
+.grade-table {
+  td, th {
+    min-width: auto;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
 details.my {
   margin: 0;
   summary {

@@ -18,7 +18,7 @@ Jun 29
 Jun 30
 : [MIPS ISA](#) 
   : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim TBD Read TBD </span></details>
-  : **Mini Quiz 1**{: .label .label-purple } 
+  : **Weekly Check-in**{: .label .label-purple } 
   
     
 
