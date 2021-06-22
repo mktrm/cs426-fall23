@@ -17,7 +17,7 @@ Jul 14
 
 
 Jul 15
-: [Midterm Review](#)
+: [Catch-Up Day](#)
   : [](#)**HW 2 Due**{: .label .label-yellow }
 
 
