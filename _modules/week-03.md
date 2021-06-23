@@ -4,21 +4,19 @@ title: 'Week-3'
 
 
 Jul 12
+: [Pipeline-I](#)
+  : [](#)
+
+Jul 13
 : [Pipeline-II (Data Hazards)](#)
   : 
 
-Jul 13
-: [Pipeline-III (Control Hazards)](#)
-  : 
-
 Jul 14
-: [Branch Predictors](#)
+: [Pipeline-III (Control Hazards)](#)
   : **Weekly Check-in**{: .label .label-purple }
 
-
 Jul 15
-: [Catch-Up Day](#)
+: [Branch Predictors](#)
   : [](#)**HW 2 Due**{: .label .label-yellow }
-
 
 

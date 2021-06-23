@@ -3,19 +3,24 @@ title: Week-5
 ---
 
 Jul 26
+: [Cache-II](#)
+  : 
+
+
+Jul 27
 : [Advanced Caches](#)
   : 
 
-Jul 26
-: [Virtual Memory](#)
-  : 
-
 Jul 28
-: [Security](#)
+: [Virtual Memory](#)
   : **Weekly Check-in**{: .label .label-purple }
 
-
 Jul 29
-: [Final Review](#)
+: [Security](#)
   : **HW 4 Due**{: .label .label-yellow }
+
+
+Jul 31
+: **Final Day**
+  : **Final**{: .label .label-yellow }
 
