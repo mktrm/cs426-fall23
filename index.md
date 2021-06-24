@@ -72,10 +72,10 @@ A quick reminder: **Active engagement** and **re-enforcement** are keys to succe
 
 
 ## Online Discussion
-Discussions, Q&A, peer-to-peer instruction, etc. take place on our [Piazza](#){:target="_blank"}. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/){:target="_blank"}. You will receive an invitiation email to join the course a few days before the start of the class. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
 
 {: .warning }
-While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. Also, we are told that Piazza uses student data for marketing. But, unfortuently, I could not find any good alternative to replicte the same discussion expericene. So, please keep the privacy issue in mind when using it.
+While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. 
 
 
 
