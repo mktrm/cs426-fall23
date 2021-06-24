@@ -7,4 +7,4 @@ pronouns: he/him
 photo: kazem.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU55NGJ1Sm1MUkhvfGRlZmF1bHR8MjM4MDY0Y2NmMjNkYzk1ZWMyNWE1YWMxNGI3NmYyNDM){: .btn .btn-outline  target="_blank"}

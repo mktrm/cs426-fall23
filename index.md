@@ -23,7 +23,7 @@ This course covers the basics of modern processor design and operation. Together
 By the end of the course, you will have the basic knowledge to reason about details of real-world processors (e.g., some of the differences between Apple M1 and, for example, Intel Core i7). I hope that you will have fun taking this course as much as I will enjoy teaching it!
 
 
-This course is designed to run alongside [CSE 141L](#). We expect that you are enrolled in both.
+This course is designed to run alongside [CSE 141L](https://mktrm.github.io/cse141L-s121/){:target="_blank"}. We expect that you are enrolled in both.
 
 
 
@@ -46,9 +46,9 @@ This course is designed to run alongside [CSE 141L](#). We expect that you are e
 {% endif %}
 
 ## Meetings
-Lectures are M/Tu/W/Th from 11:00 to 12:20 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/28054/external_tools/628).
+Lectures are M/Tu/W/Th from 11:00 to 12:20 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/28054/external_tools/628){:target="_blank"}.
 
-Updated Office Hours on Canvas (See [Course Calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_28054)).
+Updated Office Hours on Canvas (See [Course Calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_28054){:target="_blank"}).
 
 
 ## Textbook
@@ -72,7 +72,7 @@ A quick reminder: **Active engagement** and **re-enforcement** are keys to succe
 
 
 ## Online Discussion
-Discussions, Q&A, peer-to-peer instruction, etc. take place on our [Piazza](#). You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [Piazza](#){:target="_blank"}. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
 
 {: .warning }
 While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. Also, we are told that Piazza uses student data for marketing. But, unfortuently, I could not find any good alternative to replicte the same discussion expericene. So, please keep the privacy issue in mind when using it.
@@ -117,7 +117,7 @@ These quizzes are primarily for you, to help you stay on track and to check your
 ### Homework (20%)
 These are longer form assignments, designed to test your individual understanding. You are welcome discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
 
-Homework submission will be via the [Gradescope](https://canvas.ucsd.edu/courses/28054/external_tools/80) module in Canvas. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
+Homework submission will be via the [Gradescope](https://canvas.ucsd.edu/courses/28054/external_tools/80){:target="_blank"} module in Canvas (Canvas page does not work with Safari). Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
 Generally, homework will be released every Thursday and due the following Thursday, at midnight. We expect to release a homework assignment every week, with exceptions for the final week, which should result in 4 homework assignments.
 
