@@ -103,7 +103,7 @@ We will use the following scale for your final grade:
 </div>
 
 {:.warning}
-This table might be revisited later in the class.
+We reserve the right to modify these ranges, however, we will only modify them in your favor.
 
 
 ### Weekly Check-in (5%)
