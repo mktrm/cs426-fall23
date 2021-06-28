@@ -124,7 +124,7 @@ Generally, homework will be released every Thursday and due the following Thursd
 ### Midterm (30%)
 This course will have one midterm exam.
 We recognize that students may be attending class from all around the world. For this reason, we plan to offer the midterm as a ninety minute exam to be completed during a twelve hour window.
-We will offer the midterm from 8am–8pm on Tuesday, July 13th. The exam will include everything coverd by the end of the lecture on Thursday July 8th.
+We will offer the midterm from 8am–8pm on Tuesday, July 19th. 
 
 ### Final (45%)
 The final exam will be cumulative over all of the course content.
