@@ -133,7 +133,7 @@ The registrar has assigned: 07/31/21, 03:00 PM - 05:59 PM as the final exam time
 
 Again, we recognize that students may be attending class from all around the world. For this reason, we will offer the final as a three hour exam to be completed any time in a twelve hour window.
 
-We will offer the final from 8am–8pm on Saturday, July 30th. We will schedule an extra review session and a couple of office hours in the week before the final.
+We will offer the final from 8am–8pm on Saturday, July 31. We will schedule an extra review session and a couple of office hours in the week before the final.
 
 Note that the final exam will be on **Saturday**.
 We recognize that Saturday can be a challenging day for some people to block off time, however, we also need to respect that folks have exams in other courses and the purpose of a harmonized exam schedule is to not conflict with those exams.
