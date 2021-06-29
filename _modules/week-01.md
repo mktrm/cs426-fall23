@@ -10,8 +10,8 @@ Jun 28
   : [](#)
 
 Jun 29
-: [Introduction & Motivation](#) 
-  : [<i class="icon fas fa-file-pdf"></i>](# "slides"){: .noclassatall} [<i class="icon fas fas fa-video"></i>](# "video"){: .noclassatall} [<i class="icon fas fa-chalkboard-teacher"></i>](# "annotated slides")
+: [Introduction & Motivation](https://canvas.ucsd.edu/files/4731232/download?download_frd=1) 
+  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4731232/download?download_frd=1 "slides"){: .noclassatall} [<i class="icon fas fas fa-video"></i>](# "video"){: .noclassatall} [<i class="icon fas fa-chalkboard-teacher"></i>](# "annotated slides")
 
 Jun 30
 : [Instruction Set Architecture](#)  
