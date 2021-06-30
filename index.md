@@ -163,7 +163,9 @@ The following is:
 {: .danger}
 Penalties -- anyone copying information or having information copied on a homework, or an exam, or any other violation of class policy, will receive an F in the class and will not be allowed to drop.  They will be reported to their college dean.  If you can prove non-cooperative copying took place, your grade may be restored, but you must prove it to the dean.
 
+## Useful Refrences
 
+- [MIPS Refrence Sheet](https://canvas.ucsd.edu/files/4734326/download?download_frd=1)
 
 
 ## Agenda (Tentative)
