@@ -16,7 +16,7 @@ Jun 29
 Jun 30
 : [Instruction Set Architecture](https://canvas.ucsd.edu/files/4733454/download?download_frd=1)  
   : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim 2.1,2.2 Read 2.3-2.5 </span></details>
-  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4731232/download?download_frd=1 "slides")
+  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4733454/download?download_frd=1 "slides")
   
 
 
