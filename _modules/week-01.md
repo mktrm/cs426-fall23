@@ -23,7 +23,7 @@ Jun 30
 July 01
 : [MIPS ISA](#) 
   : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim 2.10 Read 2.6-2.8,2.19 </span></details>
-  : **Weekly Check-in**{: .label .label-purple }
+  : [**Weekly Check-in**](https://canvas.ucsd.edu/courses/28054/quizzes){: .label .label-purple }
   
 
 
