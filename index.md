@@ -167,6 +167,10 @@ Penalties -- anyone copying information or having information copied on a homewo
 
 - [MIPS Refrence Sheet](https://canvas.ucsd.edu/files/4734326/download?download_frd=1)
 
+## Homework Assignments
+
+- HW1 : [pdf](https://canvas.ucsd.edu/files/4738948/download?download_frd=1) [docx](https://canvas.ucsd.edu/files/4738947/download?download_frd=1) [submit](https://canvas.ucsd.edu/courses/28054/assignments/342802)
+
 
 ## Agenda (Tentative)
 
