@@ -18,6 +18,6 @@ Jul 07
   
 Jul 08
 : [Single Cycle Control Unit](#) 
-  : **HW 1 Due**{: .label .label-yellow }
+  : [**HW 1 Due**](https://canvas.ucsd.edu/courses/28054/assignments/342802){: .label .label-yellow }
 
 
