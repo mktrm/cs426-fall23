@@ -17,7 +17,7 @@ July 06
 Jul 07
 : [Performance (Cont.) & Single Cycle Datapath](#)
   : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 4.1-4.3, Skim 4.4</span></details>
-  : **Weekly Check-in**{: .label .label-purple }
+  : [**Weekly Check-in**](https://canvas.ucsd.edu/courses/28054/quizzes){: .label .label-purple }
   
 Jul 08
 : [Single Cycle Control Unit](#) 
