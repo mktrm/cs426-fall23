@@ -15,7 +15,7 @@ July 06
 
 
 Jul 07
-: [Single Cycle Datapath](#)
+: [Performance (Cont.) & Single Cycle Datapath](#)
   : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 4.1-4.3, Skim 4.4</span></details>
   : **Weekly Check-in**{: .label .label-purple }
   
