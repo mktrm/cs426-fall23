@@ -24,6 +24,6 @@ Jul 07
 Jul 08
 : [Single Cycle Processor (Cont.)](https://canvas.ucsd.edu/files/4753326/) 
   :  <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 4.4</span></details>
-  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4753326/ "slides")[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4753318 "annotated slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[**HW 1 Due**](https://canvas.ucsd.edu/courses/28054/assignments/342802){: .label .label-yellow }
+  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4753326/ "slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4753318 "annotated slides")[**HW 1 Due**](https://canvas.ucsd.edu/courses/28054/assignments/342802){: .label .label-yellow }
 
 
