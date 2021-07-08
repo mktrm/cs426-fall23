@@ -6,12 +6,12 @@ title: 'Week-3'
 Jul 12
 : [Single Cycle Processor (Cont.)](#)
   : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 4.4</span></details>
-  :
+  
 
 Jul 13
 : [Pipeline ](#)
   : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 4.5 until hazards (p272-277); Skim rest of 4.5</span></details>
-  :
+  
 
 Jul 14
 : [Pipeline (Cont.)](#)
