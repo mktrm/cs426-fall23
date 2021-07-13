@@ -10,8 +10,9 @@ Jul 12
   
 
 Jul 13
-: [Multi-Cycle Processor & Pipeline ](#)
+: [Multi-Cycle Processor & Pipeline ](https://canvas.ucsd.edu/files/4765655/download?download_frd=1)
   : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 4.5 until hazards (p272-277); Skim rest of 4.5</span></details>
+  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4765655/download?download_frd=1 "slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4766395/download?download_frd=1 "annotated slides"){: .noclassatall}
   
 
 Jul 14
