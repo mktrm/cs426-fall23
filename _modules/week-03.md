@@ -10,7 +10,7 @@ Jul 12
   
 
 Jul 13
-: [Pipeline ](#)
+: [Multi-Cycle Processor & Pipeline ](#)
   : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 4.5 until hazards (p272-277); Skim rest of 4.5</span></details>
   
 
