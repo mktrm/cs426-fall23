@@ -18,7 +18,7 @@ Jul 21
   : **Weekly Check-in**{: .label .label-purple }
 
 Jul 22
-: [Advanced Pipeline](#)
+: [Advanced Pipeline & Memory System](#)
   : [](#)**HW 3 Due**{: .label .label-yellow }
 
 
