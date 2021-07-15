@@ -10,16 +10,15 @@ Jul 19
 
 
 Jul 20
-: [Catch-Up Day](#)
+: [Pipeline (Forwarding)](#)
   : 
 
-
 Jul 21
-: [Advanced Pipeline](#)
+: [Pipeline (Control Hazard)](#)
   : **Weekly Check-in**{: .label .label-purple }
 
 Jul 22
-: [Cache-I](#)
+: [Advanced Pipeline](#)
   : [](#)**HW 3 Due**{: .label .label-yellow }
 
 
