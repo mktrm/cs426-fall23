@@ -23,6 +23,6 @@ Jul 14
 Jul 15
 : [Pipeline (Data Hazards)](https://canvas.ucsd.edu/files/4771767/download?download_frd=1)
   : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read 4.5 hazards and data hazards (p277-281); Read 4.7</span></details>
-  :  [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4771767/download?download_frd=1 "slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4771763/download?download_frd=1 "annotated slides"){: .noclassatall}[**Weekly Check-in**](https://canvas.ucsd.edu/courses/28054/quizzes){: .label .label-purple }[**HW 2 Due**](https://canvas.ucsd.edu/courses/28054/assignments/343742){: .label .label-yellow }
+  :  [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4771767/download?download_frd=1 "slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4771763/download?download_frd=1 "annotated slides"){: .noclassatall}[**HW 2 Due**](https://canvas.ucsd.edu/courses/28054/assignments/343742){: .label .label-yellow }
 
 
