@@ -177,6 +177,9 @@ HW2 | [pdf](https://canvas.ucsd.edu/files/4754073/download?download_frd=1) | [do
 
 HW3 | [pdf](https://canvas.ucsd.edu/files/4772646/download?download_frd=1) | [docx](https://canvas.ucsd.edu/files/4772645/download?download_frd=1) | [submit](https://canvas.ucsd.edu/courses/28054/assignments/345016) | [solutions](https://canvas.ucsd.edu/files/4776310/download?download_frd=1)
 
+HW4 | [pdf](https://canvas.ucsd.edu/files/4794176/download?download_frd=1) | [docx](https://canvas.ucsd.edu/files/4794175/download?download_frd=1) | [submit](https://canvas.ucsd.edu/courses/28054/assignments/346570) 
+
+
 
 
 ## Agenda (Tentative)
