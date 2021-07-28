@@ -167,6 +167,8 @@ Penalties -- anyone copying information or having information copied on a homewo
 
 - [MIPS Refrence Sheet](https://canvas.ucsd.edu/files/4734326/download?download_frd=1)
 - [Modified MIPS Refrence Sheet For Exams](https://canvas.ucsd.edu/files/4772975/download?download_frd=1)
+- [Guide on How to Draw Textual Pipeline Diagram](https://canvas.ucsd.edu/files/4812863/download?download_frd=1)
+- [Empty Word Template for Pipeline Diagram](https://canvas.ucsd.edu/files/4812864/download?download_frd=1)
 
 
 ## Homework Assignments
