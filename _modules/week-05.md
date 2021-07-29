@@ -18,8 +18,8 @@ Jul 28
   :  [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4816629/download?download_frd=1 "slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4816619/download?download_frd=1 "annotated slides"){: .noclassatall} **Weekly Check-in**{: .label .label-purple } 
 
 Jul 29
-: [Advancecd Architectures and Security](#)
-  : **HW 4 Due**{: .label .label-yellow }
+: [Advancecd Architectures and Security](https://canvas.ucsd.edu/files/4822785/download?download_frd=1)
+  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4822785/download?download_frd=1 "slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4822780/download?download_frd=1 "annotated slides"){: .noclassatall} **HW 4 Due**{: .label .label-yellow }
 
 
 Jul 31
