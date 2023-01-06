@@ -1,10 +1,10 @@
 ---
 layout: home
-title: CSE-141
+title: CS-593
 nav_exclude: true
 seo:
   type: Course
-  name: 'Introduction to Computer Architecture Lab'
+  name: 'Microarchitecture Security'
 
 toc: true
 toc_label : "On this page"
@@ -19,11 +19,7 @@ toc_hmax: 6
 
 
 
-This course covers the basics of modern processor design and operation. Together, we will learn Instruction Set Architectures (ISAs), computer system performance, pipelining, branch prediction, memory-hierarchy design,  and processor security considerations.
-By the end of the course, you will have the basic knowledge to reason about details of real-world processors (e.g., some of the differences between Apple M1 and, for example, Intel Core i7). I hope that you will have fun taking this course as much as I will enjoy teaching it!
-
-
-This course is designed to run alongside [CSE 141L](https://mktrm.github.io/cse141L-s121/){:target="_blank"}. We expect that you are enrolled in both.
+This course will focus on the interaction of computer security and computer architecture. We will start with the basic architectural background: caches and memory hierarchy, out-of-order execution, speculative execution, and branch prediction. Then we will discuss fundamental sys- tem security concepts such as isolation, memory safety, side- and covert-channels, etc. This gives us the necessary background to dive deeper into understanding of how microarchitecture can be exploited to leak information. We will discuss the classic and recent attacks that leverage differ- ent architectural structures/components which include caches, branch prediction, DVFS, DRAM, and accelerators/FPGAs. We will then cover high-performance architectural solutions to mitigate those attacks. We will also talk about fundamentally secure approaches and architectures such as constant-time programming, capability-based architectures, and information flow tracking. Finally, we will discuss how architecture can provide efficient support for security and privacy, where we talk about solutions such as Trusted-Execution Enviourments (TEEs) and architecture support for memory safety and isolation.
 
 
 
@@ -38,12 +34,6 @@ This course is designed to run alongside [CSE 141L](https://mktrm.github.io/cse1
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
-
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
 
 ## Meetings
 Lectures are M/Tu/W/Th from 11:00 to 12:20 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/28054/external_tools/628){:target="_blank"}.
