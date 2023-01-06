@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS593 
-tagline: 'Microarchitecture Security'
-description:  CSE-593, Spring 2023
+title: CSE-141 
+tagline: 'Introduction to Computer Architecture'
+description:  CSE-141, Summer Session I 2021
 author: Kazem Taram
-baseurl: '/cs593-spring23' # the subpath of your site, e.g. /blog
+baseurl: '/cse141-s121' # the subpath of your site, e.g. /blog
 url: 'https://mktrm.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
@@ -30,6 +30,8 @@ permalink: pretty
 aux_links:
   Kazem Taram:
     - 'https://mktrm.github.io/'
+  CSE-141L:
+    - 'https://mktrm.github.io/cse141L-s121'
 footer_content: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.'
 
 # logo: "/assets/images/favicon.ico"
