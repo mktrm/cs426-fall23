@@ -1,10 +1,10 @@
 ---
 layout: home
-title: CSE-141
+title: CS-426
 nav_exclude: true
 seo:
   type: Course
-  name: 'Introduction to Computer Architecture Lab'
+  name: 'Introduction to Computer Security'
 
 toc: true
 toc_label : "On this page"
@@ -18,12 +18,15 @@ toc_hmax: 6
 {: .fs-6 .fw-300 }
 
 
+This course covers the basics of computer security.  We will cover a wide range of topics from both offensive and defensive sides, including systems security and exploitation (e.g., buffer overflows), sandboxing and isolation, side channels, network security, cryptography, privacy and anonymity, and legal and ethical issues. Together, we will learn how to build *secure* computer systems, we will undrestand security best practices, and we will get to know security failures in existing and emerging computer networks and systems.
 
-This course covers the basics of modern processor design and operation. Together, we will learn Instruction Set Architectures (ISAs), computer system performance, pipelining, branch prediction, memory-hierarchy design,  and processor security considerations.
-By the end of the course, you will have the basic knowledge to reason about details of real-world processors (e.g., some of the differences between Apple M1 and, for example, Intel Core i7). I hope that you will have fun taking this course as much as I will enjoy teaching it!
+By the end of the course, you will have the basic knowledge to reason about common security attacks and defenses, you will become familiar with security engineering best practices, and you will learn how to write better and more secure software, protocols and systems, and you will have rudimentary skills in security research.
+I hope that you will have fun taking this course as much as I will enjoy teaching it!
 
 
-This course is designed to run alongside [CSE 141L](https://mktrm.github.io/cse141L-s121/){:target="_blank"}. We expect that you are enrolled in both.
+**Catelog Description:** The course focuses on the principles and foundations of building secure computer systems and on security and privacy challenges in existing and emerging computer networks and systems.
+The course compares and analyzes security and privacy threats and architectures from an adversarial standpoint to understand how to build more secure protocols that can withstand ever-adaptive attacks.
+
 
 
 
@@ -45,34 +48,34 @@ This course is designed to run alongside [CSE 141L](https://mktrm.github.io/cse1
 {% endfor %}
 {% endif %}
 
-## Meetings
-Lectures are M/Tu/W/Th from 11:00 to 12:20 US/Pacific, on [Zoom](https://canvas.ucsd.edu/courses/28054/external_tools/628){:target="_blank"}.
+## Lectures
+Lectures are M/W/F from 9:30 am to 10:20 am, [Robert Heine Pharmacy Building 164](https://www.google.com/maps/dir//Robert%20E.%20Heine%20Pharmacy%20Building+575%20Stadium%20Mall%20Drive+West+lafayette+47906?_ga=2.225282650.1948742483.1691952653-526511082.1665511938){:target="_blank"}.
 
-Updated Office Hours on Canvas (See [Course Calendar](https://canvas.ucsd.edu/calendar?include_contexts=course_28054){:target="_blank"}).
+Updated Office Hours on BrightSpace (See [Course Calendar](https://purdue.brightspace.com/d2l/le/calendar/832199/home/list){:target="_blank"}).
+
+## Prerequisite 
+The formal prerequisite is Undergraduate level CS 35400 [may be taken concurrently] or Undergraduate level ECE 46900 or Undergraduate level EE 46900 (minimum grade of C). However, to complete the assignments in this course, you will need to be able to write code in Python, C, and (some) C++, and have some understanding of x86 assembly, JavaScript, PHP, and SQL. We will not teach these in lecture; you are expected to learn them on your own or ask for help in section or office hours.
 
 
 ## Textbook
-Computer Organization and Design MIPS Edition, The Hardware/Software Interface, Fifth Edition (Patterson & Hennessy) (ISBN-13: 978-0124077263, ISBN-10: 0124077269)
-The textbook is required for this course. The pre-class readings are recommended, but not required.
-You will get more out of lecture if you have completed the pre-class reading. 
+There is no official textbook for the class. Slides will be provided and reading materials for each topic will be posted before the lectures. 
+However, the following resources are going to be useful: 
+
+- Security Engineering – Ross Anderson, Third Edition
+- Hacking: The Art of Exploitation by Jon Erickson
+
 We try to be clear about what is okay to skim and what will be helpful to read deeply (See [Agenda](#agenda-tentative)).
 
-### Other Recommended Reading
-
-- Hennessy & Patterson, "Computer Architecture: A Quantitative Approach", Morgan Kaufmann
-    - A more advanced treatment of many of the same topics in the textbook, as well as a lot more breadth.
-- Synthesis Lectures on Computer Architecture
-    - This contains a number of truly outstanding (and very recent and up-to-date) books on computer architecture, any of which you can download free while in the UCSD domain. In particular, see the books on Processor Microarchitecture (most useful for this class), Performance Evaluation Methods, Memory System, and Multithreading Architectures.
 
 ## Format 
-Course format is lectures over Zoom, four days per week. Attendance is strongly recommended, but not required. All the lectures will be recorded and will be posted a few hours after the lectures. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
+Course format is lectures three days a week. Attendance is strongly recommended, but not required. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
 
 {: .note }
-A quick reminder: **Active engagement** and **re-enforcement** are keys to successful and effective learning. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students, which is particularly important for our new remote world. Moroever, assignments, and grading are designed to help with re-enforcement and active engagemnet.
+A quick reminder: **Active engagement** and **re-enforcement** are keys to successful and effective learning. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students. Moroever, assignments, and grading are designed to help with re-enforcement and active engagemnet.
 
 
 ## Online Discussion
-Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/){:target="_blank"}. You should  have received an invitiation email to join the course. Please contact Kazem if you have not. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/){:target="_blank"}. You should  have received an invitation email to join the course. Please contact Kazem if you have not. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
 
 {: .warning }
 While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. 
@@ -81,7 +84,7 @@ While the instruction staff will do their best to answer any question as soon as
 
 ## Grading
 
-An ideal assesment shoud evaluate learning outcomes, thus your grade should not depend on other student's performance in class (i.e., no bell curve). 
+An ideal assessment should evaluate learning outcomes, thus your grade should not depend on other student's performance in class (i.e., no bell curve). 
 We will use the following scale for your final grade:
 
 <div class="table-responsive">
@@ -107,26 +110,26 @@ We reserve the right to modify these ranges, however, we will only modify them i
 
 
 ### Weekly Check-in (5%)
-During lectures, we will have interactive question and answer activities via Zoom polls.
+During lectures, we will have interactive question and answer activities in the class.
 These are opportunities to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
 These in-lecture polls will not be graded for correctness or attendance.
-However, on each Wednesday, we will collect all of the poll questions of the week and release a mini-quiz on Canvas. The quiz must be completed by midnight (campus time) the following Thursday. **So, you will have at least 24 hours to complete them.**
+However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a mini-quiz on BrightSpace. The quiz must be completed by midnight (campus time) the following Thursday. **So, you will have at least 24 hours to complete them.**
 
 These quizzes are primarily for you, to help you stay on track and to check your own understanding. Therefore, **we will not grade them for correctness**. If you complete the quiz, you will earn full points for that week. However, if your raw score on a quiz is low, come to discussion sections or office hours and get help!
 
-### Homework (20%)
-These are longer form assignments, designed to test your individual understanding. You are welcome discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
+### Homework (60%)
+These are longer form assignments that include both programming and a theoritic section. You are welcome discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
 
-Homework submission will be via the [Gradescope](https://canvas.ucsd.edu/courses/28054/external_tools/80){:target="_blank"} module in Canvas (Canvas page does not work with Safari). Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
+Homework submission will be via the [Gradescope](https://canvas.ucsd.edu/courses/28054/external_tools/80){:target="_blank"}. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
-Generally, homework will be released every Thursday and due the following Thursday, at midnight. We expect to release a homework assignment every week, with exceptions for the final week, which should result in 4 homework assignments.
+We will have at least 4 homework sets. Generally they will be released on Mondays and you will have 3 weeks to submit. We expect to release a homework every 3 weeks with some exceptions (Holidays, exams, etc.). See the tentative schedule for more information ([Agenda](#agenda-tentative))
 
-### Midterm (30%)
+### Midterm (15%)
 This course will have one midterm exam.
 We recognize that students may be attending class from all around the world. For this reason, we plan to offer the midterm as a ninety minute exam to be completed during a twelve hour window.
-We will offer the midterm from 8am–8pm on Monday, July 19th. 
+We will offer the midterm from ??? on Monday, ???. 
 
-### Final (45%)
+### Final (20%)
 The final exam will be cumulative over all of the course content.
 
 The registrar has assigned: 07/31/21, 03:00 PM - 05:59 PM as the final exam time slot for this course.
@@ -141,13 +144,10 @@ We recognize that Saturday can be a challenging day for some people to block off
 If you absolutely cannot make Saturday work, please contact Kazem directly before July 15th.
 
 ## Late Assignments
-You will have 1 late days during the whole summer session for late homeworks. You will also have 1 late days for weekly check-ins. You can use your late days however you wish to.
+You will have 3 late days during the whole semester for late homework. You will also have 3 late days for weekly check-ins. You can use your late days however you wish to.
 
 ## Academic Integrity  
 Cheating WILL be taken seriously. It is not fair to honest students to take cheating lightly, nor is it fair to the cheater to let him/her go on thinking that is a reasonable alternative in life. 
-
- > "Don't test me on this one." ~Prof. Dean Tullsen
-
 
 The following is not considered cheating:
 
@@ -163,15 +163,15 @@ The following is:
 {: .danger}
 Penalties -- anyone copying information or having information copied on a homework, or an exam, or any other violation of class policy, will receive an F in the class and will not be allowed to drop.  They will be reported to their college dean.  If you can prove non-cooperative copying took place, your grade may be restored, but you must prove it to the dean.
 
-## Useful Refrences
+<!-- ## Useful Refrences
 
 - [MIPS Refrence Sheet](https://canvas.ucsd.edu/files/4734326/download?download_frd=1)
 - [Modified MIPS Refrence Sheet For Exams](https://canvas.ucsd.edu/files/4772975/download?download_frd=1)
 - [Guide on How to Draw Textual Pipeline Diagram](https://canvas.ucsd.edu/files/4812863/download?download_frd=1)
-- [Empty Word Template for Pipeline Diagram](https://canvas.ucsd.edu/files/4812864/download?download_frd=1)
+- [Empty Word Template for Pipeline Diagram](https://canvas.ucsd.edu/files/4812864/download?download_frd=1) -->
 
 
-## Homework Assignments
+<!-- ## Homework Assignments
 
 HW1 | [pdf](https://canvas.ucsd.edu/files/4740428/download?download_frd=1) | [docx](https://canvas.ucsd.edu/files/4740427/download?download_frd=1) | [submit](https://canvas.ucsd.edu/courses/28054/assignments/342802) | [solutions](https://canvas.ucsd.edu/files/4772303/download?download_frd=1)
 
@@ -179,12 +179,12 @@ HW2 | [pdf](https://canvas.ucsd.edu/files/4754073/download?download_frd=1) | [do
 
 HW3 | [pdf](https://canvas.ucsd.edu/files/4772646/download?download_frd=1) | [docx](https://canvas.ucsd.edu/files/4772645/download?download_frd=1) | [submit](https://canvas.ucsd.edu/courses/28054/assignments/345016) | [solutions](https://canvas.ucsd.edu/files/4776310/download?download_frd=1)
 
-HW4 | [pdf](https://canvas.ucsd.edu/files/4794176/download?download_frd=1) | [docx](https://canvas.ucsd.edu/files/4794175/download?download_frd=1) | [submit](https://canvas.ucsd.edu/courses/28054/assignments/346570) 
+HW4 | [pdf](https://canvas.ucsd.edu/files/4794176/download?download_frd=1) | [docx](https://canvas.ucsd.edu/files/4794175/download?download_frd=1) | [submit](https://canvas.ucsd.edu/courses/28054/assignments/346570)  -->
 
 
 
 
-## Agenda (Tentative)
+## Agenda (Tentative!)
 
 {% for module in site.modules %}
 {{ module }}
@@ -192,7 +192,7 @@ HW4 | [pdf](https://canvas.ucsd.edu/files/4794176/download?download_frd=1) | [do
 
 
 ## DISCLAIMER
-Due to our unusual circumstances, the details in this syllabus may change (e.g. schedule, grading policy, assignments, etc.). We will update this syllabus in the event of changes as the course progresses.
+The details in this syllabus may change (e.g. schedule, grading policy, assignments, etc.). We will update this syllabus in the event of changes as the course progresses. We will send announcements in the case of significant changes. It is your responsibility to check for the course announcements. 
 
 ## Credit
-This page heavily uses materials from Pat Pannuto and Dean Tullsen. 
+This page uses materials from many other instructors including Deian Stefan, Dave Tian, Aniket Kate, Pat Pannuto and Dean Tullsen. 

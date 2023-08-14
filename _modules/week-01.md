@@ -5,25 +5,15 @@ title: "Week-1"
 **Date**
   : **Topic**
 
-Jun 28
-: **Juneteenth Holiday (observed)**
+Aug 21
+: **No Classs**
   : [](#)
 
-Jun 29
-: [Introduction & Motivation](https://canvas.ucsd.edu/files/4731232/download?download_frd=1) 
-  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4731232/download?download_frd=1 "slides"){: .noclassatall} [<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall} [<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4731232/download?download_frd=1 "annotated slides"){: .noclassatall}
+Aug 23
+: [Introduction]() 
+  : 
 
-Jun 30
-: [Instruction Set Architecture](https://canvas.ucsd.edu/files/4733454/download?download_frd=1)  
-  : <details  title="recommended readings"  class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim 2.1,2.2 Read 2.3-2.5 </span></details>
-  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4733454/download?download_frd=1 "slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4734944/download?download_frd=1 "annotated slides"){: .noclassatall}
-  
-
-
-July 01
-: [MIPS ISA](#) 
-  : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Skim 2.10 Read 2.6-2.8,2.19 </span></details>
-  : [<i class="icon fas fa-file-pdf"></i>](https://canvas.ucsd.edu/files/4737060/download?download_frd=1 "slides")[<i class="icon fas fas fa-video"></i>](https://canvas.ucsd.edu/courses/28054/external_tools/82 "video"){: .noclassatall}[<i class="icon fas fa-chalkboard-teacher"></i>](https://canvas.ucsd.edu/files/4747118/download?download_frd=1 "annotated slides")[**Weekly Check-in**](https://canvas.ucsd.edu/courses/28054/quizzes){: .label .label-purple }
-  
-
+Aug 25
+: [Security Fundamentals]()  
+  : 
 

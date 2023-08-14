@@ -1,0 +1,9 @@
+---
+name: Faik Kerem Ors
+role: Teaching Assistant
+email: ???@purdue.edu
+pronouns: ???/???
+website: ??
+photo: ???.jpg
+---
+
