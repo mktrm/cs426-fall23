@@ -120,9 +120,9 @@ These quizzes are primarily for you, to help you stay on track and to check your
 ### Homework (60%)
 These are longer form assignments that include both programming and a non-programming conceptual section. You are welcome discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
 
-Homework submission will be via the [Gradescope](#test){:target="_blank"}. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
+Homework submission will be via the [Gradescope](#){:target="_blank"}. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
-We will have at least 4 homework sets. Generally they will be released on Mondays and you will have 3 weeks to submit. We expect to release a homework every 3 weeks with some exceptions (Holidays, exams, etc.). See the tentative schedule for more information ([Agenda](#agenda-tentative))
+We will have 5 homework sets. Generally they will be released on Mondays and you will have 2-3 weeks to submit. See the tentative schedule for more information on the schedule of the homework assignments ([Agenda](#agenda-tentative))
 
 ### Midterm (15%)
 This course will have one midterm exam.

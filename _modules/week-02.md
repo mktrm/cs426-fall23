@@ -5,7 +5,7 @@ title: 'Week-2'
 
 Aug 28
 : [Security Fundamentals 2]()
-  :  
+  :  [**HW1 Release**](#){: .label .label-purple }
 
 
 
