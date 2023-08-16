@@ -177,7 +177,6 @@ HW4 | [pdf](https://canvas.ucsd.edu/files/4794176/download?download_frd=1) | [do
 
 ## Agenda (Tentative!)
 
-{: .danger}
 This is a tentative schedule and we may change it as the course proceeds. 
 
 {% for module in site.modules %}
