@@ -17,7 +17,7 @@ title: CS-426
 tagline: 'Computer Security'
 description:  CS-426, Fall 2023
 author: Kazem Taram
-baseurl: '/cs426-f23' # the subpath of your site, e.g. /blog
+baseurl: '/cs426-fall23' # the subpath of your site, e.g. /blog
 url: 'https://mktrm.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
