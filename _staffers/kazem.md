@@ -1,7 +1,7 @@
 ---
 name: Kazem Taram
 role: Instructor
-email: mtaram@ucsd.edu
+email: kaezm+cs426@purdue.edu
 website: https://mktrm.github.io
 pronouns: he/him
 photo: kazem.png
