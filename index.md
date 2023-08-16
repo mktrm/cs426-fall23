@@ -4,7 +4,7 @@ title: CS-426
 nav_exclude: true
 seo:
   type: Course
-  name: 'Introduction to Computer Security'
+  name: ' Computer Security'
 
 toc: true
 toc_label : "On this page"
@@ -18,9 +18,9 @@ toc_hmax: 6
 {: .fs-6 .fw-300 }
 
 
-This course covers the basics of computer security.  We will cover a wide range of topics from both offensive and defensive sides, including systems security and exploitation (e.g., buffer overflows), sandboxing and isolation, side channels, network security, cryptography, privacy and anonymity, and legal and ethical issues. Together, we will learn how to build *secure* computer systems, we will undrestand security best practices, and we will get to know security failures in existing and emerging computer networks and systems.
+This course covers the basics of computer security.  We will cover a wide range of topics from both offensive and defensive sides, including systems security and exploitation (e.g., buffer overflows), sandboxing and isolation, side channels, network security, cryptography, privacy and anonymity, and legal and ethical issues. Together, we will learn how to build *secure* computer systems, we will understand security best practices, and we will get to know security failures in existing and emerging computer networks and systems.
 
-By the end of the course, you will have the basic knowledge to reason about common security attacks and defenses, you will become familiar with security engineering best practices, and you will learn how to write better and more secure software, protocols and systems, and you will have rudimentary skills in security research.
+By the end of the course, you will have the basic knowledge to reason about common security attacks and defenses, you will become familiar with security engineering best practices, and you will learn how to write better and more secure software, protocols, and systems, and you will have rudimentary skills in security research.
 I hope that you will have fun taking this course as much as I will enjoy teaching it!
 
 
@@ -54,7 +54,7 @@ Lectures are M/W/F from 9:30 am to 10:20 am, [Robert Heine Pharmacy Building 164
 Updated Office Hours on BrightSpace (See [Course Calendar](https://purdue.brightspace.com/d2l/le/calendar/832199/home/list){:target="_blank"}).
 
 ## Prerequisite 
-The formal prerequisite is Undergraduate level CS 35400 [may be taken concurrently] or Undergraduate level ECE 46900 or Undergraduate level EE 46900 (minimum grade of C). However, to complete the assignments in this course, you will need to be able to write code in Python, C, and (some) C++, and have some understanding of x86 assembly, JavaScript, PHP, and SQL. We will not teach these in lecture; you are expected to learn them on your own or ask for help in section or office hours.
+The formal prerequisite is Undergraduate level CS 35400 [may be taken concurrently] or Undergraduate level ECE 46900 or Undergraduate level EE 46900 (minimum grade of C). However, to complete the assignments in this course, you will need to be able to write code in Python, C, and (some) C++, and have some understanding of x86 assembly, JavaScript, PHP, and SQL. We will not teach these in lecture; you are expected to learn them on your own or ask for help in office hours.
 
 
 ## Textbook
@@ -68,14 +68,14 @@ We try to be clear about what is okay to skim and what will be helpful to read d
 
 
 ## Format 
-Course format is lectures three days a week. Attendance is strongly recommended, but not required. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
+Course format is lectures three days a week. Attendance is not optional. The slides will be available for download before each lecture (See [Agenda](#agenda-tentative)). 
 
 {: .note }
-A quick reminder: **Active engagement** and **re-enforcement** are keys to successful and effective learning. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students. Moroever, assignments, and grading are designed to help with re-enforcement and active engagemnet.
+A quick reminder: **Active engagement** and **re-enforcement** are keys to successful and effective learning. Therefore, we will have plenty of activities during lectures. These activities also help you to meet and interact with other students. Moroever, assignments, and grading are designed to help with re-enforcement and active engagement.
 
 
 ## Online Discussion
-Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/){:target="_blank"}. You should  have received an invitation email to join the course. Please contact Kazem if you have not. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
+Discussions, Q&A, peer-to-peer instruction, etc. take place on our [edstem](https://edstem.org/){:target="_blank"}. You will receive an invitation email to join the course. You are encouraged to post questions, help answer other students' questions, and provide feedback and suggestions to your instruction staff. Constructive criticism is always welcome. 
 
 {: .warning }
 While the instruction staff will do their best to answer any question as soon as possible, be aware (and plan ahead) that instruction staff will not be available 24/7. 
@@ -106,42 +106,33 @@ We will use the following scale for your final grade:
 </div>
 
 {:.warning}
-We reserve the right to modify these ranges, however, we will only modify them in your favor.
+We reserve the right to modify these ranges and the following tentative grading breakdown as the course proceeds. 
 
 
 ### Weekly Check-in (5%)
 During lectures, we will have interactive question and answer activities in the class.
-These are opportunities to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
+These are opportunities for you to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
 These in-lecture polls will not be graded for correctness or attendance.
 However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a mini-quiz on BrightSpace. The quiz must be completed by midnight (campus time) the following Thursday. **So, you will have at least 24 hours to complete them.**
 
 These quizzes are primarily for you, to help you stay on track and to check your own understanding. Therefore, **we will not grade them for correctness**. If you complete the quiz, you will earn full points for that week. However, if your raw score on a quiz is low, come to discussion sections or office hours and get help!
 
 ### Homework (60%)
-These are longer form assignments that include both programming and a theoritic section. You are welcome discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
+These are longer form assignments that include both programming and a non-programming conceptual section. You are welcome discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
 
-Homework submission will be via the [Gradescope](https://canvas.ucsd.edu/courses/28054/external_tools/80){:target="_blank"}. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
+Homework submission will be via the [Gradescope](){:target="_blank"}. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
 We will have at least 4 homework sets. Generally they will be released on Mondays and you will have 3 weeks to submit. We expect to release a homework every 3 weeks with some exceptions (Holidays, exams, etc.). See the tentative schedule for more information ([Agenda](#agenda-tentative))
 
 ### Midterm (15%)
 This course will have one midterm exam.
-We recognize that students may be attending class from all around the world. For this reason, we plan to offer the midterm as a ninety minute exam to be completed during a twelve hour window.
-We will offer the midterm from ??? on Monday, ???. 
+The midterm is scheduled to be in class on Wed Oct 18. 
 
 ### Final (20%)
 The final exam will be cumulative over all of the course content.
 
-The registrar has assigned: 07/31/21, 03:00 PM - 05:59 PM as the final exam time slot for this course.
+The registrar has assigned: TBD as the final exam time slot for this course.
 
-Again, we recognize that students may be attending class from all around the world. For this reason, we will offer the final as a three hour exam to be completed any time in a twelve hour window.
-
-We will offer the final from 8am–8pm on Saturday, July 31. We will schedule an extra review session and a couple of office hours in the week before the final.
-
-Note that the final exam will be on **Saturday**.
-We recognize that Saturday can be a challenging day for some people to block off time, however, we also need to respect that folks have exams in other courses and the purpose of a harmonized exam schedule is to not conflict with those exams.
-
-If you absolutely cannot make Saturday work, please contact Kazem directly before July 15th.
 
 ## Late Assignments
 You will have 3 late days during the whole semester for late homework. You will also have 3 late days for weekly check-ins. You can use your late days however you wish to.
@@ -185,6 +176,9 @@ HW4 | [pdf](https://canvas.ucsd.edu/files/4794176/download?download_frd=1) | [do
 
 
 ## Agenda (Tentative!)
+
+{: .danger}
+This is a tentative schedule and we may change it as the course proceeds. 
 
 {% for module in site.modules %}
 {{ module }}
