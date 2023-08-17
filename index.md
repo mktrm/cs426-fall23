@@ -135,7 +135,7 @@ The registrar has assigned: TBD as the final exam time slot for this course.
 
 
 ## Late Assignments
-You will have 3 late days during the whole semester for late homework. You will also have 3 late days for weekly check-ins. You can use your late days however you wish to.
+You will have 3 late days during the whole semester for late homework. You will also have 3 late days for weekly check-ins. You can use your late days however you wish to. Note that the granularity of this is *days*. That means if you submit your homework any time in the next 24 hours after the deadline you are gonna use one of your late days. 
 
 ## Academic Integrity  
 Cheating WILL be taken seriously. It is not fair to honest students to take cheating lightly, nor is it fair to the cheater to let him/her go on thinking that is a reasonable alternative in life. 
