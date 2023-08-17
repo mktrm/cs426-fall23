@@ -1,9 +1,9 @@
 ---
 name: Faik Kerem Ors
 role: Teaching Assistant
-email: ???@purdue.edu
-pronouns: ???/???
-website: ??
-photo: ???.jpg
+email: fors@purdue.edu
+pronouns: he/him
+website: https://fkerem.github.io/
+photo: kerem.jpg
 ---
 
