@@ -18,13 +18,13 @@ toc_hmax: 6
 {: .fs-6 .fw-300 }
 
 
-This course covers the basics of computer security.  We will cover a wide range of topics from both offensive and defensive sides, including systems security and exploitation (e.g., buffer overflows), sandboxing and isolation, side channels, network security, cryptography, privacy and anonymity, and legal and ethical issues. Together, we will learn how to build *secure* computer systems, we will understand security best practices, and we will get to know security failures in existing and emerging computer networks and systems.
+This 3-credits undergraduate course covers the basics of computer security.  We will cover a wide range of topics from both offensive and defensive sides, including systems security and exploitation (e.g., buffer overflows), sandboxing and isolation, side channels, network security, cryptography, privacy and anonymity, and legal and ethical issues. Together, we will learn how to build *secure* computer systems, we will understand security best practices, and we will get to know security failures in existing and emerging computer networks and systems.
 
 By the end of the course, you will have the basic knowledge to reason about common security attacks and defenses, you will become familiar with security engineering best practices, and you will learn how to write better and more secure software, protocols, and systems, and you will have rudimentary skills in security research.
 I hope that you will have fun taking this course as much as I will enjoy teaching it!
 
 
-**Catelog Description:** The course focuses on the principles and foundations of building secure computer systems and on security and privacy challenges in existing and emerging computer networks and systems.
+**Catalog Description:** The course focuses on the principles and foundations of building secure computer systems and on security and privacy challenges in existing and emerging computer networks and systems.
 The course compares and analyzes security and privacy threats and architectures from an adversarial standpoint to understand how to build more secure protocols that can withstand ever-adaptive attacks.
 
 
@@ -54,7 +54,7 @@ Lectures are M/W/F from 9:30 am to 10:20 am, [Robert Heine Pharmacy Building 164
 Updated Office Hours on BrightSpace (See [Course Calendar](https://purdue.brightspace.com/d2l/le/calendar/832199/home/list){:target="_blank"}).
 
 ## Prerequisite 
-The formal prerequisite is Undergraduate level CS 35400 [may be taken concurrently] or Undergraduate level ECE 46900 or Undergraduate level EE 46900 (minimum grade of C). However, to complete the assignments in this course, you will need to be able to write code in Python, C, and (some) C++, and have some understanding of x86 assembly, JavaScript, PHP, and SQL. We will not teach these in lecture; you are expected to learn them on your own or ask for help in office hours.
+The formal prerequisite is undergraduate level CS 25100 minimum grade of C and undergraduate level CS 25200 minimum grade of C [may be taken concurrently] or undergraduate level ECE 46900 Minimum Grade of C or undergraduate level EE 46900 Minimum Grade of C. However, to complete the assignments in this course, you will need to be able to write code in Python, C, and (some) C++, and have some understanding of x86 assembly, JavaScript, PHP, and SQL. We will not teach these in lecture; you are expected to learn them on your own or ask for help in office hours.
 
 
 ## Textbook
@@ -137,7 +137,9 @@ The registrar has assigned: TBD as the final exam time slot for this course.
 ## Late Assignments
 You will have 3 late days during the whole semester for late homework. You will also have 3 late days for weekly check-ins. You can use your late days however you wish to. Note that the granularity of this is *days*. That means if you submit your homework any time in the next 24 hours after the deadline you are gonna use one of your late days. 
 
-## Academic Integrity  
+
+
+## Academic Integrity
 Cheating WILL be taken seriously. It is not fair to honest students to take cheating lightly, nor is it fair to the cheater to let him/her go on thinking that is a reasonable alternative in life. 
 
 The following is not considered cheating:
@@ -172,6 +174,9 @@ HW3 | [pdf](https://canvas.ucsd.edu/files/4772646/download?download_frd=1) | [do
 
 HW4 | [pdf](https://canvas.ucsd.edu/files/4794176/download?download_frd=1) | [docx](https://canvas.ucsd.edu/files/4794175/download?download_frd=1) | [submit](https://canvas.ucsd.edu/courses/28054/assignments/346570)  -->
 
+## University Policies and Statements 
+
+Please see [Brightspace](https://purdue.brightspace.com/d2l/le/content/832199/Home) for complete list of university policies and statements. 
 
 
 
