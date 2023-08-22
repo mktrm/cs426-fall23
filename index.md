@@ -110,7 +110,7 @@ We reserve the right to modify these ranges and the following tentative grading 
 
 
 ### Weekly Check-in (5%)
-During lectures, we will have interactive question and answer activities in the class.
+During lectures, we will have interactive question and answer activities in the class. We will use [Hotseat](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/13837914/View) for polls and discussions. 
 These are opportunities for you to check your understanding and for us to go back and help explain concepts more thoroughly that may be confusing folks.
 These in-lecture polls will not be graded for correctness or attendance.
 However, on each Wednesday (from 2nd week onward), we will collect all of the poll questions of the week and release a mini-quiz on BrightSpace. The quiz must be completed by midnight (campus time) the following Thursday. **So, you will have at least 24 hours to complete them.**
