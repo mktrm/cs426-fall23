@@ -120,7 +120,7 @@ These quizzes are primarily for you, to help you stay on track and to check your
 ### Homework (60%)
 These are longer form assignments that include both programming and a non-programming conceptual section. You are welcome discuss homework problems with other students or in groups, however, you must complete your final writeup alone.
 
-Homework submission will be via the [Gradescope](#){:target="_blank"}. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
+Homework submission will be via the [Gradescope](https://www.gradescope.com/courses/582792){:target="_blank"}. If you are enrolled in the class you should see the class in you Gradescope account. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
 We will have 5 homework sets. Generally they will be released on Mondays and you will have 2-3 weeks to submit. See the tentative schedule for more information on the schedule of the homework assignments ([Agenda](#agenda-tentative))
 
