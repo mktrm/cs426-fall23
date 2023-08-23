@@ -10,7 +10,7 @@ Aug 21
   : [](#)
 
 Aug 23
-: [Introduction]() 
+: [Introduction](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14058416/View) 
   : 
 
 Aug 25
