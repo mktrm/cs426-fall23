@@ -7,4 +7,4 @@ pronouns: he/him
 photo: kazem3.jpg
 ---
 
-[Schedule an appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU55NGJ1Sm1MUkhvfGRlZmF1bHR8MjM4MDY0Y2NmMjNkYzk1ZWMyNWE1YWMxNGI3NmYyNDM){: .btn .btn-outline  target="_blank"}
+[Schedule an appointment](https://outlook.office365.com/book/cs426kazemschedule@purdue.edu/s/MNd54qwxfku6OmSLC3mHBg2){: .btn .btn-outline  target="_blank"}
