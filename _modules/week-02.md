@@ -12,7 +12,7 @@ Aug 28
 Aug 30
 : [Buffer Overflow Attacks]()
   : 
-  : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read: Smashing the Stack for Fun and Profit by Aleph One; Optional: 0×300-0×320 from Hacking. 0×200-0×270 if you don't have a strong C background.</span></details>
+  : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2">Read: Smashing the Stack for Fun and Profit by Aleph One; Optional: 0×300-0×320 from Hacking book. 0×200-0×270 if you don't have a strong C background.</span></details>
 
 Sep 01
 : [Buffer Overflow Attacks 2]() 
