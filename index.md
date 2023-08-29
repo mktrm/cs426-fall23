@@ -122,7 +122,7 @@ These are longer form assignments that include both programming and a non-progra
 
 Homework submission will be via the [Gradescope](https://www.gradescope.com/courses/582792){:target="_blank"}. If you are enrolled in the class you should see the class in your Gradescope account. Regrade requests will also be handled via Gradescope. The window for regrades will be no more than one week after graded homework is returned.
 
-We will have 5 homework sets. Generally they will be released on Mondays and you will have 2-3 weeks to submit. See the tentative schedule for more information on the schedule of the homework assignments ([Agenda](#agenda-tentative)). Homework 1 will be worth 8% and the remaining homework (Homework 2-5) will each be worth 13% of the final grade, making the total Homework grade 8 + 4 * 13 = 60% of your final grade. 
+We will have 5 homework sets. Generally they will be released on Mondays and you will have 2-3 weeks to submit. See the tentative schedule for more information on the schedule of the homework assignments ([Agenda](#agenda-tentative)). Homework 1 will be worth 6% and the remaining homework (Homework 2-5) will each be worth 13.5% of the final grade, making the total Homework grade 6 + 4 * 13.5 = 60% of your final grade. 
 
 ### Midterm (15%)
 This course will have one midterm exam.
