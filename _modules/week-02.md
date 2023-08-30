@@ -4,7 +4,7 @@ title: 'Week-2'
 
 
 Aug 28
-: [Security Fundamentals 2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14109853)
+: [Security Fundamentals 2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14079300)
   :  [**HW1 Release**](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14099764/View){: .label .label-purple }
 
 
