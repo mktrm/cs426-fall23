@@ -6,16 +6,18 @@ title: Week-4
 
 
 Sep 11
-: [Memory Safety]()
+: [Buffer Overflow Defenses]()
   : [**HW1 Due**](#){: .label .label-yellow }[**HW2 Release**](#){: .label .label-purple }
+  : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2" markdown=1> Read [ASLR](https://pax.grsecurity.net/docs/aslr.txt); [NOEXEC](https://pax.grsecurity.net/docs/noexec.txt).</span></details>
   
 
 Sep 13
-: [Isolation]()
+: [Buffer Overflow Defenses 2]()
   : 
+  : <details title="recommended readings" class="my"><summary><i class="icon fas fa-book-reader "></i></summary><span class="fs-2" markdown=1> Same as prev lecture: Read [ASLR](https://pax.grsecurity.net/docs/aslr.txt); [NOEXEC](https://pax.grsecurity.net/docs/noexec.txt).</span></details>
 
 
 
 Sep 15
-: [Reverse Engineering]()
+: [Memory Safety & Isolation]()
   : 
