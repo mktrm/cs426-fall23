@@ -3,7 +3,7 @@ title: Week-14
 ---
 
 Nov 20
-: [Machine Learning Security & Privacy]()
+: [Privacy and anonymity 2]()
   :  
 
 Nov 22

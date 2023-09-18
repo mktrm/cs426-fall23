@@ -3,15 +3,15 @@ title: Week-10
 ---
 
 Oct 23
-: [Network Defenses]()
+: [Web Intro]()
   :  [**HW3 Due**](#){: .label .label-yellow }[**HW4 Release**](#){: .label .label-purple }
 
 Oct 25
-: [Cryptography Intro]()
+: [Web Attacks]()
   : 
 
 Oct 27
-: [Symmetric Crypto]()
+: [Web Defenses]()
   : 
 
 

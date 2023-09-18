@@ -3,15 +3,15 @@ title: Week-12
 ---
 
 Nov 06
-: [Authentication and passwords]()
+: [Symmetric Key Crypto]()
   :  
 
 Nov 08
-: [Access Control]()
+: [Symmetric Key Crypto 2]()
   : 
 
 Nov 10
-: [Malware]()
+: [Public Key Crypto]()
   : 
 
 
