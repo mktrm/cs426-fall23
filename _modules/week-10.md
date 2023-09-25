@@ -3,15 +3,15 @@ title: Week-10
 ---
 
 Oct 23
-: [Web Intro]()
+: [Web Defenses]()
   :  [**HW3 Due**](#){: .label .label-yellow }[**HW4 Release**](#){: .label .label-purple }
 
 Oct 25
-: [Web Attacks]()
+: [Network Intro]()
   : 
 
 Oct 27
-: [Web Defenses]()
+: [Network Attacks]()
   : 
 
 
