@@ -9,10 +9,10 @@ Oct 09
   
 
 Oct 11
-: **Fall Break (No Class)**
+: 
   : [](#)
 
 Oct 13
-: **Fall Break (No Class)**
+: 
   : [](#)
 
