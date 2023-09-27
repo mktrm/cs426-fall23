@@ -126,12 +126,12 @@ We will have 5 homework sets. Generally they will be released on Mondays and you
 
 ### Midterm (15%)
 This course will have one midterm exam.
-The midterm is scheduled to be in class on Wed Oct 18. 
+The midterm is scheduled to be **in class on Wed Oct 18**. 
 
 ### Final (20%)
 The final exam will be cumulative over all of the course content.
 
-The registrar has assigned: TBD as the final exam time slot for this course.
+The registrar has assigned: **Wed Dec 13th, 8-10 AM at KRAN G016** as the final exam time slot for this course.
 
 
 ## Late Assignments
