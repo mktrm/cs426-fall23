@@ -3,15 +3,15 @@ title: Week-11
 ---
 
 Oct 30
-: [Network Defenses]()
+: [Network Intro]()
   :  MICRO Conf (guest lecture?)
 
 Nov 01
-: [Symmetric Key Crypto]()
+: [Network Attacks]()
   : MICRO Conf (guest lecture?)
 
 Nov 03
-: [Symmetric Key Crypto 2]()
+: [Network Defenses]()
   : 
 
 
