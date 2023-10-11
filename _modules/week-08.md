@@ -9,10 +9,10 @@ Oct 09
   
 
 Oct 11
-: [Web Intro]()
+: [Side Channels 3]()
   : [](#)
 
 Oct 13
-: [Web Attacks]()
+: [Side Channels 4]()
   : [](#)
 
