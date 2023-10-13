@@ -17,5 +17,5 @@ Oct 04
 
 
 Oct 06
-: [Side Channels 2](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14676372/View) 
+: [Side Channels 2](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14676372/View) and [ROP Overview/Tutorial](https://purdue.brightspace.com/d2l/le/content/832199/viewContent/14701864/View)
   :  
