@@ -11,7 +11,7 @@ Nov 08
   : 
 
 Nov 10 
-: [Symmetric Key Crypto](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
+: [Symmetric Key Crypto-1](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
   : 
 
 
