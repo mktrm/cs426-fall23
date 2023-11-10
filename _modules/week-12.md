@@ -7,11 +7,11 @@ Nov 06
   :  
 
 Nov 08
-: [Network Defenses](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
+: [Network Attacks-2](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
   : 
 
 Nov 10 
-: [Symmetric Key Crypto-1](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
+: [Network Defenses](https://purdue.brightspace.com/d2l/le/content/832199/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-14746477)
   : 
 
 
