@@ -7,11 +7,11 @@ Dec 04
   :  
 
 Dec 06
-: [Final Review1]()
+: [Final Review-1]()
   : pre-midterm and web
 
 Dec 08
-: [Final Review2]()
+: [Final Review-2]()
   : 
   
 
