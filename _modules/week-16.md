@@ -3,15 +3,15 @@ title: Week-16
 ---
 
 Dec 04 
-: [Machine Learning Security and Privacy]()
+: [Privacy]()
   :  
 
 Dec 06
-: [Catching up]()
-  : 
+: [Final Review1]()
+  : pre-midterm and web
 
 Dec 08
-: [Final Review]()
+: [Final Review2]()
   : 
   
 
